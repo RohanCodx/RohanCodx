@@ -25,7 +25,7 @@
 ## ⚡ Tech Stack (Learning)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,python,git,github" />
 </p>
 
 ---
@@ -113,12 +113,12 @@
 ---
 
 ## 💡 Dev Quote
-
-> "Code. Break. Learn. Repeat."
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
 
 ---
 
 <p align="center">
+
 💙 Always learning. Always building. Always upgrading.
 </p>
 
