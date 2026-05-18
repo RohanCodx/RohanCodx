@@ -75,7 +75,7 @@
 
 📩 Contact Me:
 - 📧 Email: throhan10@gmail.com
-- 📸 Instagram: https://instagram.com/rohan.none
+- 📸 Instagram: https://instagram.com/rohxn.none
 - 💻 GitHub: https://github.com/RohanCodx
 
 ---
@@ -94,8 +94,8 @@
   <a href="https://github.com/RohanCodx">
     <img src="https://img.shields.io/badge/GitHub-RohanCodx-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/rohan.none">
-    <img src="https://img.shields.io/badge/Instagram-rohan.none-E4405F?style=for-the-badge&logo=instagram" />
+  <a href="https://instagram.com/rohxn.none">
+    <img src="https://img.shields.io/badge/Instagram-rohxn.none-E4405F?style=for-the-badge&logo=instagram" />
   </a>
 </p>
 
