@@ -25,7 +25,7 @@
 ## ⚡ Tech Stack (Learning)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,cpp,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,github" />
 </p>
 
 ---
