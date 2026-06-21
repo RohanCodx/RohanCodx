@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEARNING%20MODE-00C853?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/FOCUS-%20DEVELOPMENT-2962FF?style=for-the-badge&logo=web" />
-  <img src="https://img.shields.io/badge/LEVEL-ENTRY%20%7C%20GROWING-FF6D00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEVEL-GROWING-FF6D00?style=for-the-badge" />
 </p>
 
 ---
