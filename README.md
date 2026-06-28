@@ -1,7 +1,7 @@
 # 👋 Hey, I'm RohanCodx
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Hi+I'm+RohanCodx;Welcome+to+my+Profile;HTML+%7C+CSS+%7C+JS+%7C+Python;Building+Real+World+Projects+%F0%9F%9A%80;Always+Learning+New+Tech+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&pause=900&center=true&vCenter=true&width=1000&lines=Hi+I'm+RohanCodx;Welcome+to+my+Profile;HTML+%7C+CSS+%7C+JS+%7C+Python;Building+Real+World+Projects+%F0%9F%9A%80;Always+Learning+New+Tech+%F0%9F%92%BB" />
 </p>
 
 <p align="center">
@@ -49,14 +49,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanCodx&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohanCodx&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
