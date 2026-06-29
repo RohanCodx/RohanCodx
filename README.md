@@ -1,81 +1,46 @@
-# 👋 Hey, I'm RohanCodx
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=2800&pause=900&center=true&vCenter=true&width=1000&lines=Hi+I'm+RohanCodx;Welcome+to+my+Profile;HTML+%7C+CSS+%7C+JS+%7C+Python;Building+Real+World+Projects+%F0%9F%9A%80;Always+Learning+New+Tech+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=RohanCodx" alt="Name" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING%20MODE-00C853?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/STATUS-LEARNING%20-00C853?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/FOCUS-%20DEVELOPMENT-2962FF?style=for-the-badge&logo=web" />
   <img src="https://img.shields.io/badge/LEVEL-GROWING-FF6D00?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-- 🎓 Student (PCM - Science stream)
-- 👨‍💻 Passionate Web Developer
-- 🤖 Interested in AI, APIs & Automation
-- 📱 Building real-world web projects
-- 🚀 Focused on becoming a pro developer step-by-step
-- ✨ Also intrested in space
+-  Student (PCM - Science stream)
+-  Passionate Developer
+-  Building projects
+-  Focused on building
+-  Also intrested in space
 ---
 
-## ⚡ Tech Stack (Learning)
+## SKILLS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,github,ai" />
 </p>
 
 ---
+### 🔥 Github Stats
 
-## 📚 Currently Learning Path
+<img src="https://github-readme-stats.vercel.app/api?username=RohanCodx&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=A0A0A0&ring_color=00F0FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanCodx&theme=tokyonight&background=0D1117&hide_border=true&ring=00F0FF&fire=FF6B35&currStreakLabel=00F0FF&sideLabels=A0A0A0" width="48%" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanCodx&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF&text_color=A0A0A0" width="36%" />
 
-- 🌐 HTML & CSS (Responsive Design)
-- ⚡ JavaScript (Logic + DOM + Projects)
-- 🧠 Python (Problem solving + automation)
-- 💻 C++ (DSA basics)
-- 🌍 Web Development fundamentals
-
----
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanCodx&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanCodx&theme=tokyo-night" />
-</p>
+<br/>
 
 ---
 
-## 💼 Hire Me / Work With Me 🚀
+## 🐍 Snake (Animation)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO-WORK-success?style=for-the-badge&logo=freelancer" />
-</p>
-
-### 💡 Services I Can Build
-- 🌐 Responsive Websites
-- ⚡ JavaScript Web Apps
-- 🤖 API / Automation Tools
-- 📱 Educational Web Platforms
-
-📩 Contact Me:
-- 📧 Email: throhan10@gmail.com
-- 📸 Instagram: https://instagram.com/rohan.abyss
-- 💻 GitHub: https://github.com/RohanCodx
-
----
-
-## 🐍 Contribution Snake (Animation)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
 ---
@@ -94,15 +59,18 @@
 ---
 
 ## 💡 Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="700" alt="Random Quote" /> 
+
+<br/><br/>
 
 ---
 
 <p align="center">
 
-💙 Always learning. Always building. Always upgrading.
-</p>
+<img src="https://komarev.com/ghpvc/?username=RohanCodx&color=00F0FF&style=for-the-badge&label=Profile+Views" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohanCodx&label=Profile%20Views&color=blueviolet&style=flat" />
+<br/>
+  "First read then write."— Rohan
+
+   <br/>
 </p>
