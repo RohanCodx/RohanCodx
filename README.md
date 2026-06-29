@@ -28,10 +28,10 @@
 ---
 ### 🔥 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=RohanCodx&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=A0A0A0&ring_color=00F0FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanCodx&theme=tokyonight&background=0D1117&hide_border=true&ring=00F0FF&fire=FF6B35&currStreakLabel=00F0FF&sideLabels=A0A0A0" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RohanCodx&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=A0A0A0&ring_color=00F0FF" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanCodx&theme=tokyonight&background=0D1117&hide_border=true&ring=00F0FF&fire=FF6B35&currStreakLabel=00F0FF&sideLabels=A0A0A0" width="80%" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanCodx&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF&text_color=A0A0A0" width="36%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanCodx&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF&text_color=A0A0A0" width="65%" />
 
 <br/>
 
