@@ -12,11 +12,8 @@
 
 ##  About Me
 
--  Student (PCM - Science stream)
--  Passionate Developer
--  Building projects
--  Focused on building
--  Also intrested in space
+Hi, I'm Rohan. I am a Python developer, web creator, and cybersecurity enthusiast who strategically uses AI to accelerate my professional workflow.My expertise spans script automation and network security. By combining advanced AI assistance with efficient coding, I build lightweight, open-source solutions and troubleshoot complex environments. I am driven by digital security and automation.
+
 ---
 
 ## SKILLS
