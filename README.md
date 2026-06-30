@@ -1,3 +1,5 @@
+<div align="center">
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=700&height=70&lines=RohanCodx" alt="Name" />
 </p>
@@ -23,10 +25,21 @@ Hi, I'm Rohan. I am a Python developer, web creator, and cybersecurity enthusias
 </p>
 
 ---
-### 🔥 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=RohanCodx&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=A0A0A0&ring_color=00F0FF" width="70%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanCodx&theme=tokyonight&background=0D1117&hide_border=true&ring=00F0FF&fire=FF6B35&currStreakLabel=00F0FF&sideLabels=A0A0A0" width="75%" />
+## In Action
+<a href="https://giphy.com">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" height="225" alt="Hacker GIF" style="border-radius:10px;" />
+</a>
+<br/><br/>
+
+---
+
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=RohanCodx&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=A0A0A0&ring_color=00F0FF" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanCodx&theme=tokyonight&background=0D1117&hide_border=true&ring=00F0FF&fire=FF6B35&currStreakLabel=00F0FF&sideLabels=A0A0A0" width="45%" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanCodx&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF&text_color=A0A0A0" width="36%" />
 <br/>
 
 ---
@@ -68,3 +81,4 @@ Hi, I'm Rohan. I am a Python developer, web creator, and cybersecurity enthusias
 
    <br/>
 </p>
+</div>
