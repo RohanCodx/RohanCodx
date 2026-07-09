@@ -37,7 +37,7 @@ Hi, I'm Rohan. I am a Python developer, web creator, and cybersecurity enthusias
 ## Github Stats
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanCodx&theme=tokyonight&background=0D1117&hide_border=true&ring=00F0FF&fire=FF6B35&currStreakLabel=00F0FF&sideLabels=A0A0A0" width="70%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RohanCodx&show_icons=true&theme=tokyonight" width="60%" />
 <br/>
 
 
