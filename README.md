@@ -36,8 +36,12 @@ Hi, I'm Rohan. I am a Python developer, web creator, and cybersecurity enthusias
 
 ## Github Stats
 
+<br>
+<img src="https://ghstats.dev/api/card?username=RohanCodx&theme=ocean&border_radius=10" />
+<br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RohanCodx&show_icons=true&theme=tokyonight" width="60%" />
+<br>
+<img src="https://ghstats.dev/api/langs?username=RohanCodx&theme=ocean&max_langs=6&layout=vertical_list" />
 <br/>
 
 
