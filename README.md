@@ -56,19 +56,6 @@ Hi, I'm Rohan. I am a Python developer, web creator, and cybersecurity enthusias
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/RohanCodx">
-    <img src="https://img.shields.io/badge/GitHub-RohanCodx-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/rohxn.none">
-    <img src="https://img.shields.io/badge/Instagram-rohan.abyss-E4405F?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
-
----
-
 ## 💡 Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="700" alt="Random Quote" /> 
 
