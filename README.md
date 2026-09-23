@@ -13,9 +13,7 @@
 ---
 
 ##  About Me
-🔐 Python Developer | 🛡️ Cybersecurity Enthusiast | 🚀 Web Developer
-
-Hi, I'm Rohan. I am a Python developer, web creator, and cybersecurity enthusiast who strategically uses AI to accelerate my professional workflow.My expertise spans script automation and network security. By combining advanced AI assistance with efficient coding, I build lightweight, open-source solutions and troubleshoot complex environments. I am driven by digital security and automation.
+Hey! I’m Rohan — a developer and student passionate about building things with code. I work mainly with Python, Web Technologies, and Cybersecurity, while also exploring AI, ML, and Backend Development. I enjoy experimenting with new ideas, learning how things work under the hood, and turning concepts into something useful. I’m especially interested in technology, cybersecurity, artificial intelligence, space-tech, and software development. I’m always looking for new challenges and interesting things to build. Just a student who loves technology, keeps experimenting, and enjoys creating things from scratch.
 
 ---
 
